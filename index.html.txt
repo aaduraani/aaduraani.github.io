@@ -7,6 +7,6 @@
 <body>
     <h1>Hello!</h1>
     <p>This is my first web page.</p>
-    <img src="cool-image.jpg" alt="My picture" width="300">
+    <img src="wallpaper-candi.jpg" alt="My picture" width="300">
 </body>
 </html>
