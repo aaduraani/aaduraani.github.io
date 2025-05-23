@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Web Development Page</title>
+</head>
+<body>
+    <h1>Hello!</h1>
+    <p>This is my first web page.</p>
+    <img src="cool-image.jpg" alt="My picture" width="300">
+</body>
+</html>
